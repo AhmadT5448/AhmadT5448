@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Python Developer with 3 years of professional experience, focusing on AI-driven solutions, backend development, and object detection models. My passion lies in transforming ideas into scalable applications and solving real-world problems through technology.
+I'm a Python Developer with 2 years of professional experience, focusing on AI-driven solutions, backend development, and object detection models. My passion lies in transforming ideas into scalable applications and solving real-world problems through technology.
 
 
 ## 🌐 Socials:
